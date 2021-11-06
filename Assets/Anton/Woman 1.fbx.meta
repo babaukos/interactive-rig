@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: de99da4b8aa8ce345ad0283d9373cb4f
+timeCreated: 1635722181
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: adult_female_genitalia_healedMesh
+    100002: ball_l
+    100004: ball_r
+    100006: breast.L
+    100008: breast.R
+    100010: calf_l
+    100012: calf_r
+    100014: clavicle_l
+    100016: clavicle_r
+    100018: eyebrow001Mesh
+    100020: eyelashes04Mesh
+    100022: foot_l
+    100024: foot_r
+    100026: game_engine_brests
+    100028: hand_l
+    100030: hand_r
+    100032: harvey_socks1Mesh
+    100034: head
+    100036: index_01_l
+    100038: index_01_r
+    100040: index_02_l
+    100042: index_02_r
+    100044: index_03_l
+    100046: index_03_r
+    100048: lacechokerMesh
+    100050: low-polyMesh
+    100052: lowerarm_l
+    100054: lowerarm_r
+    100056: middle_01_l
+    100058: middle_01_r
+    100060: middle_02_l
+    100062: middle_02_r
+    100064: middle_03_l
+    100066: middle_03_r
+    100068: neck_01
+    100070: pelvis
+    100072: pinky_01_l
+    100074: pinky_01_r
+    100076: pinky_02_l
+    100078: pinky_02_r
+    100080: pinky_03_l
+    100082: pinky_03_r
+    100084: ponytail01Mesh
+    100086: ring_01_l
+    100088: ring_01_r
+    100090: ring_02_l
+    100092: ring_02_r
+    100094: ring_03_l
+    100096: ring_03_r
+    100098: Root
+    100100: shortjeansMesh
+    100102: sleevelesscroptopMesh
+    100104: spine_01
+    100106: spine_02
+    100108: spine_03
+    100110: teeth_baseMesh
+    100112: thigh_l
+    100114: thigh_r
+    100116: thumb_01_l
+    100118: thumb_01_r
+    100120: thumb_02_l
+    100122: thumb_02_r
+    100124: thumb_03_l
+    100126: thumb_03_r
+    100128: tongue01Mesh
+    100130: upperarm_l
+    100132: upperarm_r
+    100134: //RootNode
+    400000: adult_female_genitalia_healedMesh
+    400002: ball_l
+    400004: ball_r
+    400006: breast.L
+    400008: breast.R
+    400010: calf_l
+    400012: calf_r
+    400014: clavicle_l
+    400016: clavicle_r
+    400018: eyebrow001Mesh
+    400020: eyelashes04Mesh
+    400022: foot_l
+    400024: foot_r
+    400026: game_engine_brests
+    400028: hand_l
+    400030: hand_r
+    400032: harvey_socks1Mesh
+    400034: head
+    400036: index_01_l
+    400038: index_01_r
+    400040: index_02_l
+    400042: index_02_r
+    400044: index_03_l
+    400046: index_03_r
+    400048: lacechokerMesh
+    400050: low-polyMesh
+    400052: lowerarm_l
+    400054: lowerarm_r
+    400056: middle_01_l
+    400058: middle_01_r
+    400060: middle_02_l
+    400062: middle_02_r
+    400064: middle_03_l
+    400066: middle_03_r
+    400068: neck_01
+    400070: pelvis
+    400072: pinky_01_l
+    400074: pinky_01_r
+    400076: pinky_02_l
+    400078: pinky_02_r
+    400080: pinky_03_l
+    400082: pinky_03_r
+    400084: ponytail01Mesh
+    400086: ring_01_l
+    400088: ring_01_r
+    400090: ring_02_l
+    400092: ring_02_r
+    400094: ring_03_l
+    400096: ring_03_r
+    400098: Root
+    400100: shortjeansMesh
+    400102: sleevelesscroptopMesh
+    400104: spine_01
+    400106: spine_02
+    400108: spine_03
+    400110: teeth_baseMesh
+    400112: thigh_l
+    400114: thigh_r
+    400116: thumb_01_l
+    400118: thumb_01_r
+    400120: thumb_02_l
+    400122: thumb_02_r
+    400124: thumb_03_l
+    400126: thumb_03_r
+    400128: tongue01Mesh
+    400130: upperarm_l
+    400132: upperarm_r
+    400134: //RootNode
+    4300000: adult_female_genitalia_healedMesh
+    4300002: ponytail01Mesh
+    4300004: low-polyMesh
+    4300006: eyebrow001Mesh
+    4300008: eyelashes04Mesh
+    4300010: teeth_baseMesh
+    4300012: tongue01Mesh
+    4300014: lacechokerMesh
+    4300016: harvey_socks1Mesh
+    4300018: sleevelesscroptopMesh
+    4300020: shortjeansMesh
+    9500000: //RootNode
+    13700000: adult_female_genitalia_healedMesh
+    13700002: eyebrow001Mesh
+    13700004: eyelashes04Mesh
+    13700006: harvey_socks1Mesh
+    13700008: lacechokerMesh
+    13700010: low-polyMesh
+    13700012: ponytail01Mesh
+    13700014: shortjeansMesh
+    13700016: sleevelesscroptopMesh
+    13700018: teeth_baseMesh
+    13700020: tongue01Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
